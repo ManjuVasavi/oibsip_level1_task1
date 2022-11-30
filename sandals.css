@@ -1,0 +1,167 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+ul{
+  list-style-type: none;
+  margin: 0;
+  /*padding: 15px;*/
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+li{
+  float: right;
+  /*color:  white;*/
+  justify-content: space-between;
+}
+
+li a{
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.home{
+	height: 450px;
+	background-color: #bb8b64;
+	padding: 50px;
+}
+.home1{
+	font-size: 14px;
+	/*color: black;*/
+	margin: 10px;
+}
+.home2{
+	font-size: 75px;
+	color: #8d5834;
+	margin: 12px;
+}
+.home3{
+	font-size: 32px;
+	/*color: black;*/
+	margin: 10px;
+}
+.button{
+	background-color: white;
+	padding: 10px;
+	color: black;
+	margin: 13px;
+	border-radius: 20px;
+}
+.socialhandles{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.about{
+	height: 600px;
+	background-color: #ede2d7;
+	display: flex;
+}
+.innerabout{
+	padding: 80px;
+
+}
+.innerabout1{
+	font-size: 50px;
+	color: brown;
+	margin: 20px;
+}
+.HR{
+	background-color: brown;
+	height: 2px;
+	margin: 18px;
+}
+.innerabout2{
+	font-size: 30px;
+	color: brown;
+	margin: 12px;
+}
+.innerabout3{
+	font-size: 25px;
+	color: brown;
+	margin: 12px;
+}
+a{
+	text-decoration: none;
+	color: brown;
+}
+.collections{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: 5px;
+}
+.coll1{
+	margin: 20px;
+}
+.coll2{
+	margin: 20px;
+}
+.coll3{
+	margin: 20px;
+}
+.title{
+	font-size: 36px;
+	color: brown;
+	margin: 20px;
+}
+.coll11{
+	font-size: 25px;
+	/*color: brown;*/
+	margin: 12px;
+}
+.coll21{
+	font-size: 25px;
+	/*color: brown;*/
+	margin: 12px;
+}
+.coll31{
+	font-size: 25px;
+	/*color: brown;*/
+	margin: 12px;
+}
+.contact{
+	background-color: #99715f;
+	height: 500px;
+	color: white;
+	display: flex;
+	padding: 20px;
+}
+.incontact{
+	padding: 50px;
+	margin: 20px;
+}
+.inc1{
+	font-size: 40px;
+	margin: 60px;
+}
+.inc2{
+	font-size: 15px;
+	margin: 20px;
+}
+.inc3{
+	font-size: 15px;
+	margin: 20px;
+}
+.inc5{
+	font-size: 15px;
+	margin: 20px;
+}
+.inc6{
+	font-size: 15px;
+	margin: 20px;
+}
+.inc8{
+	font-size: 15px;
+	margin: 20px;
+}
+.inc9{
+	font-size: 15px;
+	margin: 20px;
+}
